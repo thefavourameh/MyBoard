@@ -1,6 +1,6 @@
-/Users/decagon/Desktop/myboard_backend/src/test/java/com/SQD20/SQD20/LIVEPROJECT/service/impl/TaskServiceImplTest.java
-/Users/decagon/Desktop/myboard_backend/src/test/java/com/SQD20/SQD20/LIVEPROJECT/service/impl/FileUploadServiceImplTest.java
-/Users/decagon/Desktop/myboard_backend/src/test/java/com/SQD20/SQD20/LIVEPROJECT/service/impl/UserServiceImplTest.java
-/Users/decagon/Desktop/myboard_backend/src/test/java/com/SQD20/SQD20/LIVEPROJECT/service/impl/EmailServiceImplTest.java
-/Users/decagon/Desktop/myboard_backend/src/test/java/com/SQD20/SQD20/LIVEPROJECT/Sqd20LiveProjectApplicationTests.java
-/Users/decagon/Desktop/myboard_backend/src/test/java/com/SQD20/SQD20/LIVEPROJECT/service/impl/TaskListServiceImplTest.java
+/Users/decagon/Desktop/myboard/src/test/java/com/SQD20/SQD20/LIVEPROJECT/Sqd20LiveProjectApplicationTests.java
+/Users/decagon/Desktop/myboard/src/test/java/com/SQD20/SQD20/LIVEPROJECT/service/impl/TaskListServiceImplTest.java
+/Users/decagon/Desktop/myboard/src/test/java/com/SQD20/SQD20/LIVEPROJECT/service/impl/FileUploadServiceImplTest.java
+/Users/decagon/Desktop/myboard/src/test/java/com/SQD20/SQD20/LIVEPROJECT/service/impl/UserServiceImplTest.java
+/Users/decagon/Desktop/myboard/src/test/java/com/SQD20/SQD20/LIVEPROJECT/service/impl/TaskServiceImplTest.java
+/Users/decagon/Desktop/myboard/src/test/java/com/SQD20/SQD20/LIVEPROJECT/service/impl/EmailServiceImplTest.java

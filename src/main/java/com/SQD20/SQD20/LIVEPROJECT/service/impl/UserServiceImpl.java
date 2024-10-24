@@ -118,8 +118,6 @@ public class UserServiceImpl implements UserService {
                 .isEnabled(false)
                 .build();
         AppUser savedUser = userRepository.save(newUser);
-
-
         String jwtToken = jwtService.generateToken(newUser);
         String link = EmailTemplate.getVerificationUrl(baseUrl, jwtToken);
         EmailDetails emailDetails = EmailDetails.builder()
