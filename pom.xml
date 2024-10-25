@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.SQD20</groupId>
-	<artifactId>SQD20-LIVE-PROJECT</artifactId>
+	<artifactId>myboard</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>SQD20-LIVE-PROJECT</name>
+	<name>myboard</name>
 	<description>Task management Application</description>
 	<properties>
 		<java.version>17</java.version>
